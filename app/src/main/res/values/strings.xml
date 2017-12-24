@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Media Box Player</string>
+    <string name="app_key">bvznv7jf3448842</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="configuracion">Configuración</string>
+    <string name="musica">Música</string>
+    <string name="imagen">Imágenes</string>
+    <string name="video">Videos</string>
+    <string name="acercaDe">Acerca de ...</string>
+    <string name="biblioteca">Biblioteca</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="logout">Cerrar Sesion</string>
+    <string name="library">Biblioteca</string>
+    <string name="usuario">Nombre de Usuario</string>
+    <string name="email">E-Mail</string>
+    <string name="conectado">Conectado a Internet</string>
+    <string name="desconectato">No hay coneccion a Internet</string>
+    <string name="conectar">Conectar</string>
+    <string name="alert_session">Iniciar Sesion Primero</string>
+    <string name="salir">Salir</string>
+    <string name="preg_para_salir">Estas seguro de salir de la Aplicación?</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="capacidad">Capacidad :</string>
+
+    <string name="session_iniciada">Sesion Iniciada</string>
+    <string name="info_dropbox">dropbox-user</string>
+    <string name="preg_cerrar_session"> Estas seguro de Sesión?</string>
+    <string name="alerta_salida">Presiona una vez mas para salir de MEDIA BOX PLAYER</string>
+    <string name="description"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
