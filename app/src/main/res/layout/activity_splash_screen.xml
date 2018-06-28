@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/primaryColor"
+    tools:context="com.umss.rodres.mbp2.login.SplashScreenActivity">
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/app_logo_splash"
+        android:layout_width="79dp"
+        android:layout_height="90dp"
+        android:layout_gravity="center"
+        android:layout_margin="30dp"
+        android:adjustViewBounds="true"
+        android:padding="10dp"
+        android:scaleType="fitCenter"
+        app:srcCompat="@mipmap/ic_mbp"
+        tools:layout_editor_absoluteY="250dp" />
+
+    <!--<TextView
+        android:id="@+id/chibolas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:fontFamily="sans-serif-condensed"
+        android:text="Chibolas Placer\n"
+        android:textAlignment="center"
+        android:textColor="@color/icons"
+        android:textSize="30dp" />-->
+
+
+</android.support.design.widget.CoordinatorLayout>

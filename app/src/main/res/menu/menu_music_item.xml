@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/downloadPopUpmenu"
+        android:icon="@drawable/ic_download_black_24dp"
+        android:title="@string/download" />
+
+    <item
+        android:id="@+id/shareFilePopUpMenu"
+        android:icon="@drawable/ic_menu_share"
+        android:title="@string/shareFile" />
+    <item
+        android:id="@+id/deletePopUpMenU"
+        android:icon="@drawable/ic_delete_black_24dp"
+        android:title="@string/delete" />
+</menu>

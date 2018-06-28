@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/idSession">
+        <item
+            android:id="@+id/idLogout"
+            android:icon="@drawable/ic_close_circle_grey600_36dp"
+            android:title="@string/logout"
+            />
+    </group>
+
+    <item android:title="@string/library"
+        android:id="@+id/idBiblioteca">
+        <menu>
+            <group android:id="@+id/idMedia"
+                android:checkableBehavior="single"
+                >
+                <item
+                    android:id="@+id/idMusic"
+                    android:icon="@mipmap/ic_music"
+                    android:title="@string/musica"
+                    />
+                <item
+                    android:id="@+id/idImag"
+                    android:icon="@mipmap/ic_picture"
+                    android:title="@string/imagen"
+                    />
+                <item
+                    android:id="@+id/idVideos"
+                    android:icon="@mipmap/ic_video"
+                    android:title="@string/video"
+                    />
+            </group>
+        </menu>
+    </item>
+
+    <!--<group android:id="@+id/idOpciones"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/idConfig"
+            android:icon="@mipmap/ic_settings"
+            android:title="@string/configuracion" />
+        <item
+            android:id="@+id/idAcercaDe"
+            android:icon="@mipmap/ic_info"
+            android:title="@string/acercaDe" />
+    </group>-->
+
+    <group android:id="@+id/idSalirGroup">
+        <item
+            android:id="@+id/idSalir"
+            android:icon="@mipmap/ic_exit"
+            android:title="@string/salir"
+            />
+    </group>
+</menu>

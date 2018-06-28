@@ -1,11 +1,8 @@
 <resources>
-    <string name="app_name">Media Box Player</string>
+    <string name="app_name" translatable="false">Media Box Player</string>
     <string name="app_key">bvznv7jf3448842</string>
-
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-
-
     <string name="action_settings">Settings</string>
     <string name="configuracion">Configuración</string>
     <string name="musica">Música</string>
@@ -13,27 +10,94 @@
     <string name="video">Videos</string>
     <string name="acercaDe">Acerca de ...</string>
     <string name="biblioteca">Biblioteca</string>
-    <string name="login">Iniciar Sesion</string>
     <string name="logout">Cerrar Sesion</string>
     <string name="library">Biblioteca</string>
     <string name="usuario">Nombre de Usuario</string>
     <string name="email">E-Mail</string>
+
     <string name="conectado">Conectado a Internet</string>
     <string name="desconectato">No hay coneccion a Internet</string>
+
     <string name="conectar">Conectar</string>
+
     <string name="alert_session">Iniciar Sesion Primero</string>
     <string name="salir">Salir</string>
     <string name="preg_para_salir">Estas seguro de salir de la Aplicación?</string>
     <string name="aceptar">Aceptar</string>
     <string name="cancelar">Cancelar</string>
     <string name="capacidad">Capacidad :</string>
-
     <string name="session_iniciada">Sesion Iniciada</string>
     <string name="info_dropbox">dropbox-user</string>
     <string name="preg_cerrar_session"> Estas seguro de Sesión?</string>
     <string name="alerta_salida">Presiona una vez mas para salir de MEDIA BOX PLAYER</string>
     <string name="description"></string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-</resources>
+    <string name="start_session">Iniciar session con DropBox</string>
+    <string name="soportado_por">Powered By</string>
+    <string name="title_activity_">Activity</string>
+    <string name="dev_by">Desarrollado por :</string>
+    <string name="dev_name">Sergio Rodrigo Cárdenas Rivera</string>
+    <string name="disconnected">Sin conección</string>
+    <string name="connect">Conectar</string>
+    <string name="continue_how">Continuar como :</string>
 
+    <string name="play">Reproducir</string>
+
+    <string name="delete">Eliminar</string>
+    <string name="shareFile">Compartir archivo</string>
+    <string name="download">Descargar</string>
+    <string name="action">Seleccione una acción</string>
+
+    <string name="wifi_Enabled">Wifi Activado</string>
+    <string name="mobile_data_enabled">Datos Móbiles Activados</string>
+    <string name="no_connection">Sin Conection a Internet</string>
+    <string name="title_activity_video_player">ActivityVideoPlayer</string>
+    <string name="exit_session">Estas seguro de cerrar sesión?</string>
+    <string name="closing_session">Cerrando Session...</string>
+
+    <string name="link_not_disponible">LINK NO DISPONIBLE</string>
+    <string name="link_disponible">LINK DISPONIBLE</string>
+    <string name="refesh_with_gesture">Actualizar con gesto</string>
+
+    <string name="no_search_founded">El Archivo no ha sido encontrado</string>
+    <string name="no_music_founded">Ningún archivo de Audio soportado encontrado</string>
+    <string name="no_image_founded">Ningún archivo de Imagen soportado encontrado</string>
+    <string name="no_video_founded">Ningún archivo de Video soportado encontrado</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="path_music">/music</string>
+    <string name="path_image">/imag</string>
+    <string name="path_video">/video</string>
+
+    <string name="updated_music">Biblioteca de música actualizada</string>
+    <string name="updated_image">Biblioteca de imagenes actualizada</string>
+    <string name="updated_video">Biblioteca de videos actualizada</string>
+
+    <string name="error_update">No se ha podido actualizar la biblioteca</string>
+
+    <string name="loading_links">Cargando links ...</string>
+    <string name="try_again">Intentar de Nuevo</string>
+
+    <string name="get_shared_link">Obteniendo link para compartir ...</string>
+    <string name="deleting">Eliminando ...</string>
+    <string name="uploading">Subiendo ...</string>
+
+    <string name="error_prepare_download">Error al preraparar la descarga</string>
+    <string name="error_sharing_file">Un error ha ocurrido al compartir el archivo</string>
+    <string name="error_deleting_file">Error al eliminar : </string>
+    <string name="error_loading_account_info">Error al actualizar el espacio restante</string>
+    <string name="has_been_deleted"> ha sido eliminado</string>
+    <string name="cant_delete">No se puede eliminar el elemento</string>
+    <string name="cant_download">No se puede descargar ahora, intente más tarde</string>
+    <string name="cant_share">No se puede compartir ahora, intente más tarde</string>
+
+    <string name="playing">Reproduciendo</string>
+
+    <string name="nothing_to_play">Ninguna pista para reproducir</string>
+    <string name="updating">Actualizando</string>
+    <string name="are_you_sure_to_delete">Estas seguro de eliminar? : </string>
+
+    <string name="prepare_download">Preparando descarga ...</string>
+    <string name="write_here">Escribe aqui :</string>
+</resources>

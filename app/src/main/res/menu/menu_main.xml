@@ -4,36 +4,29 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".MainActivity">
 
-    <item
+    <!--<item
         android:id="@+id/action_search"
-        android:icon="@android:drawable/ic_menu_search"
-        app:showAsAction="always"
-        app:actionViewClass="android.support.v7.widget.SearchView"
-        android:title="Search"/>
+        android:icon="@drawable/ic_cloud_search_grey600_24dp"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom"
+        android:title="Búsqueda"/>-->
 
-    <item
-        android:id="@+id/miCompose"
-        app:showAsAction="never"
-        android:title="Compose">
-    </item>
+        <!--Ayuda para filtrar-->
+        <!--app:actionViewClass="android.support.v7.widget.SearchView"-->
 
-    <item
-        android:id="@+id/action_settings"
-        android:orderInCategory="100"
-        android:title="Settings"
-        app:showAsAction="never"
-        android:visible="true" />
+    <!--<item
+        android:id="@+id/action_addItemFile"
+        android:orderInCategory="2"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Añadir Archivo"
+        app:showAsAction="collapseActionView"
+        android:visible="true" />-->
 
-    <item
-        android:id="@+id/action_login"
-        android:orderInCategory="100"
-        android:title="Log In"
+    <!--<item
+        android:id="@+id/action_refresh"
+        android:orderInCategory="3"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="@string/refesh_with_gesture"
         app:showAsAction="never"
-        android:visible="true" />
-
-    <item
-        android:id="@+id/miProfile"
-        app:showAsAction="never"
-        android:title="Profile">
-    </item>
+        android:checkable="true" />-->
 </menu>

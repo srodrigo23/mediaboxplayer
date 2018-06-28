@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimary">#3f51b5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#ff4081</color>
 
     <color name="primaryColor">#212121</color>
     <color name="primaryLightColor">#484848</color>
@@ -12,4 +12,38 @@
     <color name="secondaryDarkColor">#0069c0</color>
     <color name="primaryTextColor">#ffffff</color>
     <color name="secondaryTextColor">#000000</color>
+
+    <color name="primary">#3f51b5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="primary_light">#C5CAE9</color>
+    <color name="accent">#448aff</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="tv_branding">#ffff5722</color>
+    <color name="tv_branding_dark">#ffbf360c</color>
+    <color name="tv_branding_accent">#00B8D4</color>
+    <color name="bt_accent">#00B8D4</color>
+    <color name="media_item_icon_playing">@color/bt_accent</color>
+    <color name="media_item_icon_not_playing">#ccc</color>
+    <color name="drawer_header_background">@color/bt_accent</color>
+    <color name="error_message_background">#ffff1600</color>
+    <color name="drawer_item_selected_background">#feee</color>
+    <color name="drawer_item_tint_color">#ff333333</color>
+    <color name="fullscreen_secondary_line_color">#E5CCCCCC</color>
+    <color name="fullscreen_line_color">#E5FFFFFF</color>
+    <color name="tv_search_button">#ff0097A7</color>
+    <color name="background_gradient_start">#000000</color>
+    <color name="background_gradient_end">#DDDDDD</color>
+    <color name="default_background">#0096a6</color>
+    <color name="especial_red">#e53935</color>
+    <color name="especial_green">#4CAF50</color>
+    <color name="foreground_material_light">#ffffff</color>
+    <color name="background_material_light">#fafafa</color>
+    <color name="background_material_dark_1">#fefefe</color>
+    <color name="foreground_material_dark">#c42e2e</color>
 </resources>
