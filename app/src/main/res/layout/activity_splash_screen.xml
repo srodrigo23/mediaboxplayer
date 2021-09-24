@@ -21,16 +21,4 @@
         app:srcCompat="@mipmap/ic_mbp"
         tools:layout_editor_absoluteY="250dp" />
 
-    <!--<TextView
-        android:id="@+id/chibolas"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="bottom|center"
-        android:fontFamily="sans-serif-condensed"
-        android:text="Chibolas Placer\n"
-        android:textAlignment="center"
-        android:textColor="@color/icons"
-        android:textSize="30dp" />-->
-
-
 </android.support.design.widget.CoordinatorLayout>

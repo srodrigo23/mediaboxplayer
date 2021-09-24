@@ -39,9 +39,9 @@ public class ActivityVideoPlayer extends AppCompatActivity{
 
     private void addEventListener(){
         mSimpleExoPlayerView.getPlayer().addListener(new Player.EventListener() {
-            @Override
-            public void onTimelineChanged(Timeline timeline,
-                                          Object manifest) {}
+//            @Override
+//            public void onTimelineChanged(Timeline timeline,
+//                                          Object manifest) {}
 
             @Override
             public void onTracksChanged(TrackGroupArray trackGroups,
@@ -79,8 +79,8 @@ public class ActivityVideoPlayer extends AppCompatActivity{
                 showMessageError(error.getSourceException().toString());
             }
 
-            @Override
-            public void onPositionDiscontinuity() { }
+//            @Override
+//            public void onPositionDiscontinuity() { }
 
             @Override
             public void onPlaybackParametersChanged(PlaybackParameters playbackParameters) {}

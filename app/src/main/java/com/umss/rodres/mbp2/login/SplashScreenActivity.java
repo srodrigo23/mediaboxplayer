@@ -18,17 +18,10 @@ public class SplashScreenActivity extends AppCompatActivity {
     private CountDownTimer splashTimer;
     private AppCompatImageView musicLogo;
 
-    //private TextView texto;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash_screen);
-
-        //texto = (TextView)findViewById(R.id.chibolas);
-        //Typeface type = Typeface.createFromAsset(getAssets(),"fonts/billabong.ttf");
-        //texto.setTypeface(type);
-
         startSplashTimer();
     }
 

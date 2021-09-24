@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cea9b81a-1840-448c-a7c0-6b93076b2f85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/session/SplashActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../res/font/billabong.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../.idea/assetWizardSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../androidTest/java/com/umss/rodres/mbp2/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../androidTest/java/com/umss/rodres/mbp2/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../assets/fonts/billabong.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../assets/fonts/billabong.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asynctask/DeleteFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/asynctask/DeleteFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asynctask/GetAllFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/asynctask/GetAllFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asynctask/GetLinkFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/asynctask/GetLinkFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asynctask/GetSharedLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/asynctask/GetSharedLink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asynctask/GetUserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/asynctask/GetUserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asynctask/SetDisconnectServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/asynctask/SetDisconnectServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asynctask/UploadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/asynctask/UploadFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/divers/AboutFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/divers/AboutFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/MyAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/MyAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/ViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/ViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helper/FileThumbnailRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/helper/FileThumbnailRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helper/PicassoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/helper/PicassoClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/LogInActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/login/LogInActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/LoginContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/login/LoginContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/LoginPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/login/LoginPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/SplashScreenActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/login/SplashScreenActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/MainContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/MainContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/MainPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/MainPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/image/ImageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/ImageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/image/ImageContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/ImageContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/image/ImageFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/ImageFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/image/ImagePresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/ImagePresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/image/ImageViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/ImageViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/music/MusicAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/media/music/MusicAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/music/MusicContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/media/music/MusicContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/music/MusicFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/media/music/MusicFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/music/MusicPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/media/music/MusicPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/music/MusicViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/media/music/MusicViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/video/VideoAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/media/video/VideoAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/video/VideoContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/media/video/VideoContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/video/VideoFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/media/video/VideoFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/video/VideoPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/media/video/VideoPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/video/VideoViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/media/video/VideoViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/DropBoxClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/DropBoxClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/FormatsSuported.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/FormatsSuported.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/Session.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/player/audio/ActivityAudioPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/player/audio/ActivityAudioPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/player/audio/AudioPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/player/audio/AudioPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/player/image/ImageActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/player/image/ImageActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/player/video/ActivityVideoPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/player/video/ActivityVideoPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/player/video/VideoPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/player/video/VideoPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/ActivitySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/search/ActivitySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/FilesAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/search/FilesAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/FilterHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/search/FilterHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/NoSearchFounded.java" beforeDir="false" afterPath="$PROJECT_DIR$/search/NoSearchFounded.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session/LoadLogOut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session/LogOut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/Conversor.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/Conversor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/GridSpacingItemDecoration.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/GridSpacingItemDecoration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/MyDividerItemDecoration.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/MyDividerItemDecoration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/NetworkChangeReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/NetworkChangeReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/Settings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/StringProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/StringProcess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/anim/left_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/anim/left_in.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/anim/left_out.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/anim/left_out.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/anim/rotate_clockwise.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/anim/rotate_clockwise.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/anim/zoom_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/anim/zoom_in.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable-hdpi/ic_delete_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable-hdpi/ic_delete_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable-hdpi/ic_menu_down.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable-hdpi/ic_menu_down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable-hdpi/no_album_artwork.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable-hdpi/no_album_artwork.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable-hdpi/video.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable-hdpi/video.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable-mdpi/ic_delete_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable-mdpi/ic_delete_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable-v21/ic_menu_camera.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable-v21/ic_menu_camera.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable-v21/ic_menu_gallery.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable-v21/ic_menu_gallery.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable-v21/ic_menu_manage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable-v21/ic_menu_manage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable-v21/ic_menu_send.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable-v21/ic_menu_send.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable-v21/ic_menu_share.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable-v21/ic_menu_share.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable-v21/ic_menu_slideshow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable-v21/ic_menu_slideshow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable-xhdpi/ic_delete_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable-xhdpi/ic_delete_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable-xxhdpi/ic_delete_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable-xxhdpi/ic_delete_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable-xxxhdpi/ic_delete_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable-xxxhdpi/ic_delete_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable/background_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable/background_button.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable/check_all.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable/check_all.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable/close_circle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable/close_circle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable/cloud_search.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable/cloud_search.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable/download.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable/download.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable/drawer_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable/drawer_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable/file_image.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable/file_image.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable/fullscreen_bg_gradient.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable/fullscreen_bg_gradient.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable/fullscreen_toolbar_bg_gradient.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable/fullscreen_toolbar_bg_gradient.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable/ic_emoticon_sad.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable/ic_emoticon_sad.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable/indicador_de_memoria.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable/indicador_de_memoria.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable/pause.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable/pause.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable/play.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable/play.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable/side_nav_bar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable/side_nav_bar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable/skip_next.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable/skip_next.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/drawable/skip_previous.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/drawable/skip_previous.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_audio_player.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_audio_player.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_image.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_image.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_log_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_log_in.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_search.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_search.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_splash_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_splash_screen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_video_player.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_video_player.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/content_exo_audio_player.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/content_exo_audio_player.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/content_exo_video_player.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/content_exo_video_player.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/content_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/content_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/controls.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/controls.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/fragment_about.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/fragment_about.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/fragment_imag.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/fragment_imag.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/fragment_music.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/fragment_music.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/fragment_no_search_founded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/fragment_no_search_founded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/fragment_video.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/fragment_video.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/header_session.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/header_session.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/item_file.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/item_file.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/item_file_filter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/item_file_filter.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/item_image.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/item_image.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/menu/drawer_options.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/menu/drawer_options.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/menu/drawer_session.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/menu/drawer_session.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/menu/menu_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/menu/menu_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/menu/menu_music_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/menu/menu_music_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/menu/menu_search.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/menu/menu_search.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/a1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/a1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/dropbox_48.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/dropbox_48.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/folder_music.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/folder_music.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_disc.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_disc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_dropbox.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_dropbox.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_exit.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_exit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_exoplayer.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_exoplayer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_file_avi.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_file_avi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_file_jpg.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_file_jpg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_file_jpg1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_file_jpg1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_file_jpg3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_file_jpg3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_file_mp4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_file_mp4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_file_png.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_file_png.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder_black.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder_black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder_blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder_blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder_green.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder_green.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder_home.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder_home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder_music.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder_music.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder_picture.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder_picture.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder_upload.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder_upload.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder_video.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_folder_video.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_info.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_info.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_login.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_login.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_logo_app.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_logo_app.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_logo_app2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_logo_app2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_logout.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_logout.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_logout1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_logout1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_mbp.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_mbp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_mp3_file.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_mp3_file.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_music.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_music.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_picture.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_picture.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_play.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_sistemas_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_sistemas_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_umss_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_umss_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_video.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/ic_video.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/if_dropbox_104432.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/if_dropbox_104432.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/if_dropbox_1298735.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/if_dropbox_1298735.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/if_dropbox_1930495.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/if_dropbox_1930495.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/if_logo_app2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/if_logo_app2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/imag_background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/imag_background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/imagentest1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/imagentest1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/imagtest3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/imagtest3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/imates2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/imates2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/label_mbp.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/label_mbp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/mbp.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/mbp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/mbp3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/mbp3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/no_album_art.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-hdpi/no_album_art.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/values-v23/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/values-v23/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/values/attrs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/values/attrs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/values/drawables.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/values/drawables.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/values/integers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/values/integers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/xml/searchable.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/xml/searchable.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../test/java/com/umss/rodres/mbp2/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../test/java/com/umss/rodres/mbp2/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../settings.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="38" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mbp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mbp2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cea9b81a-1840-448c-a7c0-6b93076b2f85" name="Default Changelist" comment="" />
+      <created>1576891408952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576891408952</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3297568" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+</project>

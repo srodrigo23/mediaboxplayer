@@ -35,7 +35,7 @@ public class ActivityAudioPlayer extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_audio_player);
-        mSimpleExoPlayerView = findViewById(R.id.player);
+        mSimpleExoPlayerView = (SimpleExoPlayerView) findViewById(R.id.player);
         mFrameLayout         = mSimpleExoPlayerView.findViewById(R.id.layout_player_fullscreen);
         mTitleFile           = mFrameLayout.findViewById(R.id.title_file);
         mProgressBar         = mSimpleExoPlayerView.findViewById(R.id.progressLaunchLink);

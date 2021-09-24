@@ -27,10 +27,10 @@ public class LogInActivity extends AppCompatActivity implements LoginContract.Vi
         setContentView(R.layout.activity_log_in);
         mPresenter = new LoginPresenter(this);
 
-        mLogout_button   = findViewById(R.id.idLogoutButton);
-        mLogin_button    = findViewById(R.id.idLoginButton);
-        mProgress        = findViewById(R.id.idProgressBarLogin);
-        mTryAgain_button = findViewById(R.id.idTryAgainButton);
+        mLogout_button   = (Button) findViewById(R.id.idLogoutButton);
+        mLogin_button    = (Button) findViewById(R.id.idLoginButton);
+        mProgress        = (ProgressBar) findViewById(R.id.idProgressBarLogin);
+        mTryAgain_button = (Button) findViewById(R.id.idTryAgainButton);
         mPresenter.initSession();
     }
 
